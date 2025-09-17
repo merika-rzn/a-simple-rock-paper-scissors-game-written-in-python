@@ -14,13 +14,13 @@ _____
    git clone https://github.com/merika-rzn/a-simple-rock-paper-scissors-game-written-in-python
 2. navigate to the project folder:
    ```bash
-   cd. rock-paper-scissors
-3.run the game:
+    cd. rock-paper-scissors
+3. run the game:
    ```bash
-   python game.py
-____
+   rock-paper-scissor.py
+___
 
-## Example gameplay
+## Example Gameplay
 how many rounds you want to play? 1
 Round 1 - choose between rock / paper / scissor
 👉 You: rock VS AI: scissor
