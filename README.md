@@ -11,7 +11,7 @@ _____
 ## How to run
 1. clone the repositery:
    '''bash
-   git clone https://github.com/merika-rzn/rock-paper-scissors.git
+   git clone https://github.com/merika-rzn/a-simple-rock-paper-scissors-game-written-in-python
 2. navigate to the project folder:
    '''bash
    cd. rock-paper-scissors
@@ -30,3 +30,7 @@ Score → You: 1 | AI: 0
 🎉 You win with 1 points!
 
 Thanks for playing Rock-Paper-Scissors! 🎮
+ ____
+
+ ## Licence
+ this project is under the MIT License.
