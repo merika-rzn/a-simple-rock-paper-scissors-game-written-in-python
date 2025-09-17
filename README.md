@@ -18,8 +18,9 @@ _____
 3.run the game:
    '''bash
    python game.py
+____
 
-##Example gameplay
+## Example gameplay
 how many rounds you want to play? 1
 Round 1 - choose between rock / paper / scissor
 👉 You: rock VS AI: scissor
