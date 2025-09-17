@@ -10,13 +10,13 @@ _____
 
 ## How to run
 1. clone the repositery:
-   '''bash
+   ```bash
    git clone https://github.com/merika-rzn/a-simple-rock-paper-scissors-game-written-in-python
 2. navigate to the project folder:
-   '''bash
+   ```bash
    cd. rock-paper-scissors
 3.run the game:
-   '''bash
+   ```bash
    python game.py
 ____
 
